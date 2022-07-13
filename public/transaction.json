@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "#PM1ABC00",
+    "consegna":"20/06/2021",
+    "fermentazione": {
+      "inoculo piede": "03/10/2020 16:00",
+      "temperatura media": "16.3 Celsius",
+      "termine": "10/10/2020"
+    },
+    "imbottigliamento": {
+        "data": "16/05/2021", 
+        "luogo": "(43.9763245, 7.9512148)"
+    },
+    "iniziopressatura": "03/10/2020 12:00",
+    "trattamenti": {
+        "1st": "15/04/2020",
+      "2nd": "30/04/2020",
+      "3rd": "07/05/2020",
+      "4th": "22/05/2020",
+      "5th": "03/06/2020",
+      "6th": "20/06/2020",
+      "7th": "05/07/2020",
+      "8th": "17/07/2020",
+      "9th": "01/08/2020",
+      "prodotto a base di zolfo per trattamento": "200ml",
+      "prodotto rameico 30% per trattamento": "400g",
+      "raccolta dati": "gps e sensori atomizzatore",
+      "superficie": "8543mq"
+    },
+    "vendemmia": {
+     "fine": "03/10/2020 11:00",
+      "inizio": "03/10/2020 6:50"
+    }
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
